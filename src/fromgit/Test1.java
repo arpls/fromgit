@@ -15,4 +15,5 @@ public class Test1 {
 		System.out.println("add by git.com");
 	}
 	// new line add by local
+	//new line add by git.com
 }
